@@ -1,0 +1,9 @@
+I:\School\CS-325\CS325_IP\IntroProject01\IntroProject01\obj\Debug\IntroProject01.csprojResolveAssemblyReference.cache
+I:\School\CS-325\CS325_IP\IntroProject01\IntroProject01\obj\Debug\IntroProject01.Properties.Resources.resources
+I:\School\CS-325\CS325_IP\IntroProject01\IntroProject01\obj\Debug\IntroProject01.csproj.GenerateResource.Cache
+I:\School\CS-325\CS325_IP\IntroProject01\IntroProject01\obj\Debug\IntroProject01.csproj.CoreCompileInputs.cache
+I:\School\CS-325\CS325_IP\IntroProject01\IntroProject01\bin\Debug\IntroProject01.exe.config
+I:\School\CS-325\CS325_IP\IntroProject01\IntroProject01\bin\Debug\IntroProject01.exe
+I:\School\CS-325\CS325_IP\IntroProject01\IntroProject01\bin\Debug\IntroProject01.pdb
+I:\School\CS-325\CS325_IP\IntroProject01\IntroProject01\obj\Debug\IntroProject01.exe
+I:\School\CS-325\CS325_IP\IntroProject01\IntroProject01\obj\Debug\IntroProject01.pdb
